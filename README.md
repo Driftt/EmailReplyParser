@@ -22,7 +22,7 @@ Email clients handle reply formatting differently, making parsing a pain. [We in
 Yes that is fine, I will email you in the morning.
 ```
 
-[![Build Status](https://secure.travis-ci.org/Driftt/EmailReplyParser.png?branch=master)](https://travis-ci.org/Driftt/EmailReplyParser)
+[![Build Status](https://travis-ci.org/Driftt/EmailReplyParser.svg?branch=master)](https://travis-ci.org/Driftt/EmailReplyParser)
 
 ## Installation
 
