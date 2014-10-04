@@ -1,0 +1,9 @@
+*.sw*
+*.iml
+*.pyc
+target/
+.classpath
+.project
+.settings
+.idea
+.venv
