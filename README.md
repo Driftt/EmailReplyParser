@@ -16,7 +16,7 @@ On Fri, Nov 16, 2012 at 1:48 PM, Driftt <support@driftt.com> wrote:
 > "Hi Royce, can we chat in the morning about your question?"
 ```
 
-Email clients handle reply formatting differently, making parsing a pain. [We include tests for many cases](https://github.com/Driftt/email-reply-parser/tree/master/test/emails). The parsed email:
+Email clients handle reply formatting differently, making parsing a pain. [We include tests for many cases](https://github.com/Driftt/EmailReplyParser/tree/master/src/test/resources/emails). The parsed email:
 
 ```
 Yes that is fine, I will email you in the morning.
